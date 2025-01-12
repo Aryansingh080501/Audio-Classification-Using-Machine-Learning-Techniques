@@ -32,5 +32,5 @@ k-NN is a supervised learning algorithm that classifies data based on the majori
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/audio-classification.git
+   git clone https://github.com/Aryansingh080501/audio-classification.git
    cd audio-classification
